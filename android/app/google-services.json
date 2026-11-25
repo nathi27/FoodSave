@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1077060797346",
+    "project_id": "foodsave-8cd5a",
+    "storage_bucket": "foodsave-8cd5a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077060797346:android:24645b44fa8760ee88e8fb",
+        "android_client_info": {
+          "package_name": "com.mycompany.avancefoodsave"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWXcAJCiL5Ayv29QNCl89rjnf-pFpLu5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

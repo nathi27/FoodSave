@@ -1,0 +1,34 @@
+// Export pages
+export '/pages/authenticacion/register/register_widget.dart'
+    show RegisterWidget;
+export '/pages/authenticacion/bienvenidos/bienvenidos_widget.dart'
+    show BienvenidosWidget;
+export '/pages/comercio/consultar_publicaciones_activas/consultar_publicaciones_activas_widget.dart'
+    show ConsultarPublicacionesActivasWidget;
+export '/pages/consumidor/consultar_detallede_excedente/consultar_detallede_excedente_widget.dart'
+    show ConsultarDetalledeExcedenteWidget;
+export '/pages/comercio/consultar_reservas_recibidas/consultar_reservas_recibidas_widget.dart'
+    show ConsultarReservasRecibidasWidget;
+export '/pages/authenticacion/login/login_widget.dart' show LoginWidget;
+export '/pages/consumidor/visualizar_excedentes_disponibles/visualizar_excedentes_disponibles_widget.dart'
+    show VisualizarExcedentesDisponiblesWidget;
+export '/pages/comercio/modificar_publicacion/modificar_publicacion_widget.dart'
+    show ModificarPublicacionWidget;
+export '/pages/consumidor/reservar_un_excedente/reservar_un_excedente_widget.dart'
+    show ReservarUnExcedenteWidget;
+export '/pages/consumidor/consultary_cancelar_mis_reservas/consultary_cancelar_mis_reservas_widget.dart'
+    show ConsultaryCancelarMisReservasWidget;
+export '/pages/comercio/actualizar_estado_de_reserva/actualizar_estado_de_reserva_widget.dart'
+    show ActualizarEstadoDeReservaWidget;
+export '/pages/consumidor/recibir_confirmacion_reserva/recibir_confirmacion_reserva_widget.dart'
+    show RecibirConfirmacionReservaWidget;
+export '/pages/comercio/publicar_excedente_alimentario/publicar_excedente_alimentario_widget.dart'
+    show PublicarExcedenteAlimentarioWidget;
+export '/pages/consumidor/recibir_recordatorio_de_retiro/recibir_recordatorio_de_retiro_widget.dart'
+    show RecibirRecordatorioDeRetiroWidget;
+export '/pages/comercio/recibir_aviso_de_nueva_reserva/recibir_aviso_de_nueva_reserva_widget.dart'
+    show RecibirAvisoDeNuevaReservaWidget;
+export '/pages/consumidor/menu_vistas_consumidor/menu_vistas_consumidor_widget.dart'
+    show MenuVistasConsumidorWidget;
+export '/pages/comercio/menu_vistas_comercios/menu_vistas_comercios_widget.dart'
+    show MenuVistasComerciosWidget;

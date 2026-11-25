@@ -1,0 +1,18 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "excedentes",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "estado",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "cantidadDisponibles",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}
